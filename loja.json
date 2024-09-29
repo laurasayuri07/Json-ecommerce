@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Base",
+        "description": "Base líquida para um acabamento perfeito.",
+        "price": 50.90,
+        "image": "img/base.jpg",
+        "link": "https://www.natura.com.br/c/promocao-da-semana?utm_content=na_exato_amplo_a_nac_institucional_institucional_ambos_gen-2102-3112&utm_source=facebook&utm_medium=lead&consultoria=consultorgian&fbclid=CjwKCAiAivGuBhBEEiwAWiFmYTPijWLMycwfjz&gad_source=1&gclid=CjwKCAjwl6-3BhBWEiwApN6_khSKytfFGogfoLsX7njeDX4MwMoxLE7GPMH6oHskQNdutuLvDeRN0hoCg4UQAvD_BwE"
+    },
+    {
+        "name": "Máscara de Cílios",
+        "description": "Máscara para cílios longos e volumosos.",
+        "price": 30.90,
+        "image": "img/rimel.jpg",
+        "link": "https://www.rubyrosemaquiagem.com.br/melu"
+    },
+    {
+        "name": "Gloss",
+        "description": "Gloss com glitter.",
+        "price": 20.90,
+        "image": "img/gloss (1).png",
+        "link": "https://www.dailus.com.br/"
+    },
+    {
+        "name": "Sombras",
+        "description": "Paleta de sombras para criar looks variados.",
+        "price": 70.90,
+        "image": "img/sombra.jpg",
+        "link": "https://ponoshop.com.br/product/paleta-de-sombras-120-cores-maquiagem-profissional-eyeshadow/"
+    },
+    {
+        "name": "Blush",
+        "description": "Diversas cores, especialmente para você.",
+        "price": 50.90,
+        "image": "img/blush.jpg",
+        "link": "https://www.bauny.com.br/"
+    },
+    {
+        "name": "Iluminador",
+        "description": "Um brilho único.",
+        "price": 30.90,
+        "image": "img/p.png",
+        "link": "https://www.marimariamakeup.com/iluminador-divine-glow-glister/p"
+    },
+    {
+        "name": "Delineador",
+        "description": "Para aquele gatinho perfeito.",
+        "price": 20.50,
+        "image": "img/135232.jpg",
+        "link": "https://www.avon.com.br/p/caneta-delineadora-power-stay-preto/AVNBRA-135232"
+    },
+    {
+        "name": "Corretivo",
+        "description": "Boa cobertura e durabilidade.",
+        "price": 40.00,
+        "image": "img/co.jpg",
+        "link": "https://www.belezanawebpro.com.br/maybelline-instant-age-rewind-eraser-120-light-corretivo-liquido-59ml/"
+    }
+]
